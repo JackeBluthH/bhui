@@ -1,0 +1,2 @@
+﻿window.Util = {};
+window.BhUI = {};
