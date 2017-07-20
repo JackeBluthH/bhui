@@ -2,7 +2,7 @@
 This project is based JQuery. we will do it for a public UI and a javascript libary.
 
 # HTTP 状态码
-<table class="toolTable table" width="100%" cellspacing="0" cellpadding="0">
+<table class="toolTable table" width="100%" cellspacing="0" cellpadding="0" style="font-size:12px">
 	<tbody><tr>
 		<th class="separateColor" width="60px;">状态码</th>
 		<th>含义</th>
